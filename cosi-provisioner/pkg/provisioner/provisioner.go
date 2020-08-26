@@ -31,7 +31,7 @@ import (
 
 	cosiclient "github.com/container-object-storage-interface/api/clientset"
 	"github.com/container-object-storage-interface/cosi-provisioner-sidecar/cosi-provisioner/controller"
-	"github.com/container-object-storage-interface/spec/lib/go/cosi"
+	cosi "github.com/container-object-storage-interface/spec"
 )
 
 const (

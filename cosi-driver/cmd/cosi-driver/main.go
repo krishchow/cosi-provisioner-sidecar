@@ -26,7 +26,7 @@ import (
 	"k8s.io/klog"
 
 	"github.com/container-object-storage-interface/cosi-provisioner-sidecar/cosi-driver/pkg/server"
-	"github.com/container-object-storage-interface/spec/lib/go/cosi"
+	cosi "github.com/container-object-storage-interface/spec"
 )
 
 // Command line flags
